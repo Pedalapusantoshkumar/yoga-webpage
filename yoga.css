@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.yoga-coverpage {
+    background-color: #ffe2ab;
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height: 138vh;
+    background-size: cover;
+}
+
+.yoga-homepage-heading {
+    color: #1f2799;
+    font-size: 28px;
+    font-family: "roboto";
+    font-weight: 900;
+    text-align: center;
+    padding: 20px;
+}
+
+.girl-image {
+    height: 280px;
+    width: 220px;
+    position: relative;
+    top: 250px;
+    left: 130px;
+
+}
+
+.yoga-description {
+    color: #2a3087;
+    font-size: 18px;
+    font-weight: 500;
+    position: relative;
+    text-align: center;
+    top: 200px;
+    left: 10px;
+}
+
+.button {
+    color: white;
+    background-color: #2a3087;
+    border-radius: 20px;
+    text-align: center;
+    height: 36px;
+    width: 120px;
+    position: relative;
+    top: 200px;
+    left: 170px;
+}
+
+.girl-image1 {
+    height: 280px;
+    width: 220px;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+
+.heading-page2 {
+    color: #1f2799;
+    font-size: 22px;
+    font-family: "roboto";
+    font-weight: 900;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 70px;
+    right: 20px;
+}
+
+.card-container {
+    width: 420px;
+    height: 110px;
+    background-color: #767bc2;
+    padding: 10px;
+    margin: 20px;
+    position: relative;
+    bottom: 100px;
+    border-radius: 20px;
+}
+
+.yoga-image-dimensions {
+    height: 110px;
+    width: 136px;
+    padding: 10px;
+}
+
+.text-container {
+    padding: 2px;
+}
+
+.container-heading {
+    font-size: 18px;
+    font-family: "roboto";
+}
+
+.button2 {
+    color: white;
+    background-color: #2a3087;
+    border-radius: 20px;
+    text-align: center;
+    height: 36px;
+    width: 120px;
+    position: relative;
+    bottom: 85px;
+    left: 175px;
+}
